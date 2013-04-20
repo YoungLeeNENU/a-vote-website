@@ -1,0 +1,14 @@
+* TODO Oracle课程设计
+- 一个简单的投票 Web 应用
+** web框架
+*** DONE 采用 *Django* 这种 Web 框架，使用 *Python* 处理业务逻辑。
+CLOSED: [2013-04-20 六 16:06]
+** 数据库
+*** DONE 先采用 *Mysql*
+CLOSED: [2013-04-20 六 16:06]
+*** TODO 后移植到 *Oracle* 上
+** 服务器
+*** DONE 直接使用 *Python* 的 manage.py 的 runserver 功能
+CLOSED: [2013-04-20 六 16:06]
+*** DONE 不准备用 *Apache* 代替
+CLOSED: [2013-04-20 六 16:06]
